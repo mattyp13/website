@@ -30,8 +30,8 @@ html{
   <h3>Tokyo</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
-
-
+</body>
+/*
 .parallax {
     /* The image used */
     background-image: url('binary.jpeg');
@@ -57,6 +57,6 @@ Tip: Try to remove the background-attachment property to remove the scrolling ef
 </div>
 
 <div class="parallax"></div>
-
+*/
 
 </html>
